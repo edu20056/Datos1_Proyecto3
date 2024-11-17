@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gameobjects\\airbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gameobjects\\airbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gameobjects\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gameobjects\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gamelogic\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gamelogic\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gamelogic\\graph\\airbasenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gamelogic\\graph\\airbasenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gameobjects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gameobjects\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|c:\\users\\felip\\desktop\\projects\\datos1_proyecto3\\airwar\\airwar\\gamelogic\\graph\\airbasegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34270D11-3E2E-48F0-99E0-A8F8D2E0D4B3}|AirWar\\AirWar.csproj|solutionrelative:airwar\\gamelogic\\graph\\airbasegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 263,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirBaseGraph.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameLogic\\Graph\\AirBaseGraph.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameLogic\\Graph\\AirBaseGraph.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameLogic\\Graph\\AirBaseGraph.cs",
+              "RelativeToolTip": "AirWar\\GameLogic\\Graph\\AirBaseGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:14:55.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirBaseNode.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameLogic\\Graph\\AirBaseNode.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameLogic\\Graph\\AirBaseNode.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameLogic\\Graph\\AirBaseNode.cs",
+              "RelativeToolTip": "AirWar\\GameLogic\\Graph\\AirBaseNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:14:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\Aircraft.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameObjects\\Aircraft.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\Aircraft.cs",
+              "RelativeToolTip": "AirWar\\GameObjects\\Aircraft.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:26:30.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirBase.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\AirBase.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameObjects\\AirBase.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\AirBase.cs",
+              "RelativeToolTip": "AirWar\\GameObjects\\AirBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:24:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\Bullet.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameObjects\\Bullet.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\Bullet.cs",
+              "RelativeToolTip": "AirWar\\GameObjects\\Bullet.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:12:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\Player.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameObjects\\Player.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameObjects\\Player.cs",
+              "RelativeToolTip": "AirWar\\GameObjects\\Player.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:10:43.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameLogic\\GameManager.cs",
+              "RelativeDocumentMoniker": "AirWar\\GameLogic\\GameManager.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Projects\\Datos1_Proyecto3\\AirWar\\AirWar\\GameLogic\\GameManager.cs",
+              "RelativeToolTip": "AirWar\\GameLogic\\GameManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:08:16.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

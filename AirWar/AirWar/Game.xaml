@@ -1,0 +1,19 @@
+﻿<Window x:Class="AirWar.Game"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="AirWar Game" Height="700" Width="800"
+        KeyDown="OnKeyDown" KeyUp="OnKeyUp">
+
+    <Grid>
+        <Canvas Name="MyCanvas" Background="Black">
+
+            <TextBlock Name="scoreText" Text="Score: 0" Foreground="White" FontSize="20" 
+                       Canvas.Left="10" Canvas.Top="10" />
+            <TextBlock Name="damageText" Text="Damage: 0" Foreground="White" FontSize="20" 
+                       Canvas.Left="10" Canvas.Top="40" />
+        </Canvas>
+    </Grid>
+</Window>
